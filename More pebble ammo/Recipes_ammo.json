@@ -1,0 +1,51 @@
+[
+ 
+  {
+	"type": "recipe",
+    "result": "pebble_copper",
+    "category": "CC_AMMO",
+    "subcategory": "CSC_AMMO_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [  [ "fabrication", 2 ] ],
+    "difficulty": 2,
+    "time": "15 m",
+    "autolearn": true,
+    "qualities": [ { "id": "HAMMER", "level": 1 } ],
+	"components": [ [ [ "scrap_copper", 40 ]]  ]
+  },
+  {
+	"type": "recipe",
+    "result": "pebble_bone",
+    "category": "CC_AMMO",
+    "subcategory": "CSC_AMMO_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [ [ "fabrication", 2 ] ],
+    "difficulty": 2,
+    "time": "10 m",
+    "autolearn": true,
+	"qualities": [ { "id": "HAMMER", "level": 1 } ],
+	"components":  
+	[ [   [ "bone", 5 ],[ "bone_human", 5 ], [ "bone_tainted", 10 ] ] ] 
+  },
+  {
+	"type": "recipe",
+    "result": "pebble_royal",
+    "category": "CC_AMMO",
+    "subcategory": "CSC_AMMO_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [  [ "fabrication", 5 ] ],
+    "difficulty": 5,
+    "time": "40 m",
+    "autolearn": true,
+	"qualities": [ { "id": "HAMMER", "level": 1 } ],
+	
+	"components": [ 
+	[ [ "platinum_small", 25], [ "gold_small", 50 ],[ "silver_small", 75] ] ,
+	[ [ "pebble_copper", 50], [ "bearing", 30 ],[ "marble", 30] ] 
+	
+	
+	
+	
+	]
+  }
+]

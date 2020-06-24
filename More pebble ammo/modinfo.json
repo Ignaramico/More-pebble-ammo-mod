@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "mope",
+    "name": "More pebble ammo",
+    "authors": [ "Ignaramico" ],
+    "description": "Adds ammo pebbles to vary ",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
