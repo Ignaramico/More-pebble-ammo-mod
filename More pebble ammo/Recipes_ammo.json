@@ -11,7 +11,7 @@
     "time": "15 m",
     "autolearn": true,
     "qualities": [ { "id": "HAMMER", "level": 1 } ],
-	"components": [ [ [ "scrap_copper", 40 ]]  ]
+	"components": [ [ [ "copper", 40 ]]  ]
   },
   {
 	"type": "recipe",
