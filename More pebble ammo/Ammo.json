@@ -15,7 +15,7 @@
     "count": 40,
     "ammo_type": "pebble",
     "range": 8,
-    "damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
+    "damage": { "damage_type": "stab", "amount": 2, "armor_penetration": 1 },
     "dispersion": 10,
     "loudness": 0,
     "effects": [ "NEVER_MISFIRES" ]
@@ -35,7 +35,7 @@
     "count": 40,
     "ammo_type": "pebble",
     "range": 12,
-    "damage": { "damage_type": "bash", "amount": 1 },
+    "damage": { "damage_type": "bash", "amount": 2 },
     "dispersion": 14,
     "loudness": 0,
     "effects": [ "NEVER_MISFIRES" ]
@@ -55,7 +55,7 @@
     "count": 30,
     "ammo_type": "pebble",
     "range": 15,
-    "damage": { "damage_type": "stab", "amount": 7, "armor_penetration": 2 },
+    "damage": { "damage_type": "stab", "amount": 7, "armor_penetration": 3 },
     "dispersion": 10,
     "loudness": 0,
     "effects": [ "NEVER_MISFIRES" ]
