@@ -1,0 +1,40 @@
+[
+ {
+    "id": "Slirife",
+    "looks_like": "remington700_270",
+    "type": "GUN",
+    "reload_noise_volume": 0,
+    "symbol": "(",
+    "color": "light_gray",
+    "name": { "str": "Slingshot rifle" },
+    "description": "A cross-redesign of the crossbow and a slingshot, meant to give it more range with a fast reload",
+    "price": 100,
+    "price_postapoc": 500,
+    "material": [ "steel", "wood" ],
+    "flags": [ "STR_RELOAD", "NON-FOULING", "NEEDS_NO_LUBE" ],
+    "skill": "rifle",
+    "ammo": "pebble",
+    "weight": "3000 g",
+    "volume": "2500 ml",
+    "bashing": 8,
+    "to_hit": -1,
+    "ranged_damage": { "damage_type": "stab", "amount": 15 },
+    "range": 25,
+    "dispersion": 50,
+    "durability": 7,
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ] ],
+    "clip_size": 4,
+    "reload": 150,
+    "loudness": 5,
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ],
+      [ "stock", 1 ],
+      [ "rail mount", 1 ],
+      [ "underbarrel mount", 1 ]
+    ]
+  }
+  ]
